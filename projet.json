@@ -1,0 +1,650 @@
+{
+  "version": 4,
+  "name": "LORIQUER-ROUILLARD",
+  "levels": [
+    {
+      "id": "level_1791192278225_nn6ao",
+      "name": "RDC",
+      "plan": "plans/Pages de Loriquer Rouillard - PCG ind6 - RDC.png",
+      "rooms": [
+        {
+          "id": "r_1791192507900_44plr",
+          "name": "ENTREE",
+          "x": 51.01501630867366,
+          "y": 60.19179191741909,
+          "color": "#5c9fa3",
+          "content": "\u003ch2>ENTREE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLANS RDC+R+1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791192632579_lnfuc",
+                "name": "Carrelage",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791192687060_ewdej",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1791192724060_fooyd",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLANS RDC+R+1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1791192856172_ift8h",
+          "name": "WC 1",
+          "x": 53.40359420995201,
+          "y": 65.1495231448199,
+          "color": "#8f9a69",
+          "content": "\u003ch2>WC 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>WC\u003c/strong> — - PACK WC au sol CONNECT CUBE\u003c/li>\u003cli>\u003cstrong>MEUBLE VASQUE\u003c/strong> — - Mitigeur de lavabo, Logis 70\u003cbr>- Siphon de lavabo VIEGA\u003cbr>- Lave-mains ROCA ONA BLANC\u003cbr>- Dimensions : 420x390x130 mm\u003cbr>- Siphon design apparent lave-mains, PAINI\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLANS RDC+R+1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791192958068_sfnqc",
+                "name": "Carrelage",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791192979748_g9x0h",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1791192889876_jejdq",
+                "name": "WC",
+                "detail": "- PACK WC au sol CONNECT CUBE",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791192908356_4fzh4",
+                "name": "MEUBLE VASQUE",
+                "detail": "- Mitigeur de lavabo, Logis 70\n- Siphon de lavabo VIEGA\n- Lave-mains ROCA ONA BLANC\n- Dimensions : 420x390x130 mm\n- Siphon design apparent lave-mains, PAINI",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1791193019668_elvci",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLANS RDC+R+1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1791193067628_1emsl",
+          "name": "SALLE D'EAU",
+          "x": 46.10920616764362,
+          "y": 64.56999820078646,
+          "color": "#3fc83c",
+          "content": "\u003ch2>SALLE D&#39;EAU\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage/Faïences\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>DOUCHE\u003c/strong> — - Receveur de douche rectangulaire Melua, blanc/mat, 100x70x3,6 cm\u003cbr>- Bonde de douche extra plate, VIEGA\u003cbr>- Paroi de douche DADO MAXI 70 cm côté fixe x100 cm coulissant côté 100 cm\u003cbr>- Combi douche CROMETTA/ECOSTAT\u003c/li>\u003cli>\u003cstrong>MEUBLE VASQUE\u003c/strong> — -Vasque ROCA SQUARE\u003cbr>-Dimensions (longueur, largeur, hauteur) 420 x 390 x 130 mm\u003cbr>-Mitigeur de lavabo HANSGROHE\u003cbr>-Siphon de lavabo VIEGA\u003cbr>-Douchette\u003cbr>(Le meuble vasque est fournie et posée par le maitre d’ouvrage)\u003c/li>\u003cli>\u003cstrong>SECHE-SERVIETTES\u003c/strong> — -Sèche serviette (120x55 cm) tubes à gauche blanc (Lot électricité)\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage/Faïences — \u003ca href=\"documents/LESCA - PLANS RDC+R+1+SDE.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791193094028_h5opd",
+                "name": "Carrelage/Faïences",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791193184085_f6aoy",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1791193207308_ey7iu",
+                "name": "DOUCHE",
+                "detail": "- Receveur de douche rectangulaire Melua, blanc/mat, 100x70x3,6 cm\n- Bonde de douche extra plate, VIEGA\n- Paroi de douche DADO MAXI 70 cm côté fixe x100 cm coulissant côté 100 cm\n- Combi douche CROMETTA/ECOSTAT",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791193277852_vmx6c",
+                "name": "MEUBLE VASQUE",
+                "detail": "-Vasque ROCA SQUARE\n-Dimensions (longueur, largeur, hauteur) 420 x 390 x 130 mm\n-Mitigeur de lavabo HANSGROHE\n-Siphon de lavabo VIEGA\n-Douchette\n(Le meuble vasque est fournie et posée par le maitre d’ouvrage)",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791193334252_22trw",
+                "name": "SECHE-SERVIETTES",
+                "detail": "-Sèche serviette (120x55 cm) tubes à gauche blanc (Lot électricité)",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1791193402020_c58r7",
+                "name": "Plan LESCA",
+                "detail": "Carrelage/Faïences",
+                "pdf": "documents/LESCA - PLANS RDC+R+1+SDE.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1791193509924_06crm",
+          "name": "SALON",
+          "x": 47.69642486846708,
+          "y": 47.33206128292953,
+          "color": "#6f42c1",
+          "content": "\u003ch2>SALON\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLANS RDC+R+1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791193530580_1e4l2",
+                "name": "Carrelage",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791193588652_nuxa4",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1791193574500_pvsi5",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLANS RDC+R+1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1791193670572_mqt6j",
+          "name": "COIN LECTURE",
+          "x": 39.69487381641897,
+          "y": 61.76604236925706,
+          "color": "#ff8000",
+          "content": "\u003ch2>COIN LECTURE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLANS RDC+R+1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791193706252_6hik8",
+                "name": "Carrelage",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791193733100_d31rl",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1791193791813_rghja",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLANS RDC+R+1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1791193843884_ofz1d",
+          "name": "CUISINE / RECEPTION",
+          "x": 30.87879835388543,
+          "y": 44.3354874442956,
+          "color": "#ffff00",
+          "content": "\u003ch2>CUISINE / RECEPTION\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLANS RDC+R+1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan technique\u003c/strong> — LEROY MERLIN — \u003ca href=\"documents/Doubert Cuisine LEROY MERLIN.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791193910843_poqrj",
+                "name": "Carrelage",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791193929157_92w7o",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1791193986132_io6c9",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLANS RDC+R+1.pdf"
+              },
+              {
+                "id": "f_1791194011021_1acgq",
+                "name": "Plan technique",
+                "detail": "LEROY MERLIN",
+                "pdf": "documents/Doubert Cuisine LEROY MERLIN.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1791194084348_wglp5",
+          "name": "GARAGE",
+          "x": 51.34531442018276,
+          "y": 75.39643679489335,
+          "color": "#df2499",
+          "content": "\u003ch2>GARAGE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Sol\u003c/strong> — Ragréage et durcisseur\u003c/li>\u003cli>\u003cstrong>Enduit\u003c/strong> — intérieur idem façades\u003c/li>\u003cli>\u003cstrong>Plafonds\u003c/strong> — placo isolés\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791194344157_6xa4q",
+                "name": "Sol",
+                "detail": "Ragréage et durcisseur",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791194368132_ynumn",
+                "name": "Enduit",
+                "detail": "intérieur idem façades",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791194390669_u20hp",
+                "name": "Plafonds",
+                "detail": "placo isolés",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1791194432908_wzv5m",
+          "name": "TERRASSE SUD",
+          "x": 20.679207774057648,
+          "y": 59.98907261701223,
+          "color": "#00ffff",
+          "content": "\u003ch2>TERRASSE SUD\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Préparation\u003c/strong> — Seuils\u003c/li>\u003cli>\u003cstrong>Carrelage collé\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLANS RDC+R+1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791194470556_kntmn",
+                "name": "Préparation",
+                "detail": "Seuils",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791194481557_1ovom",
+                "name": "Carrelage collé",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1791194522573_jurrj",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLANS RDC+R+1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1791199815545_d6bdp",
+          "name": "PORCHE",
+          "x": 57.8090452816771,
+          "y": 60.86255081507452,
+          "color": "#a07d63",
+          "content": "\u003ch2>PORCHE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Préparation\u003c/strong> — Seuils\u003c/li>\u003cli>\u003cstrong>Carrelage collé\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLANS RDC+R+1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791199863185_jconz",
+                "name": "Préparation",
+                "detail": "Seuils",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791199887505_cgw00",
+                "name": "Carrelage collé",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1791199929529_6a0on",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLANS RDC+R+1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1791202820418_4zasf",
+          "name": "ESCALIER",
+          "x": 46.168504833811255,
+          "y": 55.98608107632867,
+          "color": "#ff0000",
+          "content": "\u003ch2>ESCALIER\u003c/h2>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan DAUGA\u003c/strong> — Escalier\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1791202947610_pxmsd",
+                "name": "Plan DAUGA",
+                "detail": "Escalier",
+                "pdf": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "level_1791192281468_esndr",
+      "name": "R+1",
+      "plan": "plans/Pages de Loriquer Rouillard - PCG ind6 - R+1.png",
+      "rooms": [
+        {
+          "id": "r_1791200026257_9hz5h",
+          "name": "PALIER",
+          "x": 45.84943731917366,
+          "y": 45.26906582929504,
+          "color": "#b64e50",
+          "content": "\u003ch2>PALIER\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — hydrofuge pré-peintes\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791200063345_qkrgg",
+                "name": "Parquet",
+                "detail": "Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791200082698_hlmqn",
+                "name": "Plinthes",
+                "detail": "hydrofuge pré-peintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1791200176185_1qudp",
+          "name": "CHAMBRE 3",
+          "x": 52.81380671412628,
+          "y": 40.843480752533914,
+          "color": "#26ddb4",
+          "content": "\u003ch2>CHAMBRE 3\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — hydrofuge pré-peintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Pas de tête de lit prévue\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791200212281_b7pdu",
+                "name": "Parquet",
+                "detail": "Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791200227617_hxsir",
+                "name": "Plinthes",
+                "detail": "hydrofuge pré-peintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1791200260882_l60vq",
+                "name": "Tête de lit",
+                "detail": "Pas de tête de lit prévue",
+                "pdf": ""
+              }
+            ],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1791200343977_zopzc",
+          "name": "WC 2",
+          "x": 51.83714821921517,
+          "y": 49.64960282027401,
+          "color": "#5087b4",
+          "content": "\u003ch2>WC 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — hydrofuge pré-peintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>WC\u003c/strong> — -PACK WC au sol CONNECT CUBE\u003c/li>\u003cli>\u003cstrong>MEUBLE VASQUE\u003c/strong> — -Mitigeur de lavabo, HANDSGROHE, type Logis 70\u003cbr>-Siphon de lavabo VIEGA\u003cbr>-Ensemble meuble lave-mains, VILLEROY, BOCH AVENTO\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791200482154_l957v",
+                "name": "Parquet",
+                "detail": "Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791200499985_233nq",
+                "name": "Plinthes",
+                "detail": "hydrofuge pré-peintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1791200406553_yf7xt",
+                "name": "WC",
+                "detail": "-PACK WC au sol CONNECT CUBE",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791200419690_nx6q1",
+                "name": "MEUBLE VASQUE",
+                "detail": "-Mitigeur de lavabo, HANDSGROHE, type Logis 70\n-Siphon de lavabo VIEGA\n-Ensemble meuble lave-mains, VILLEROY, BOCH AVENTO",
+                "pdf": ""
+              }
+            ],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1791200590377_b7nbp",
+          "name": "CHAMBRE 2",
+          "x": 52.80985863443106,
+          "y": 57.9522131420672,
+          "color": "#6cb74d",
+          "content": "\u003ch2>CHAMBRE 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — hydrofuge pré-peintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Pas de tête de lit prévue\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791200647442_92h6x",
+                "name": "Parquet",
+                "detail": "Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791200661946_wlrrl",
+                "name": "Plinthes",
+                "detail": "hydrofuge pré-peintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1791200711946_7jjfy",
+                "name": "Tête de lit",
+                "detail": "Pas de tête de lit prévue",
+                "pdf": ""
+              }
+            ],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1791200776002_whi9k",
+          "name": "DRESSING",
+          "x": 45.669593360873804,
+          "y": 61.5658910474659,
+          "color": "#a47160",
+          "content": "\u003ch2>DRESSING\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix\u003c/li>\u003cli>\u003cstrong>Plinthes \u003c/strong> — pré-peintes\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791200832553_h3sp6",
+                "name": "Parquet",
+                "detail": "Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791200941210_69len",
+                "name": "Plinthes ",
+                "detail": "pré-peintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1791201051595_mjsr6",
+          "name": "CHAMBRE 1",
+          "x": 37.576780076572966,
+          "y": 56.42260053547628,
+          "color": "#ff0000",
+          "content": "\u003ch2>CHAMBRE 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — hydrofuge pré-peintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Pas de tête de lit prévue\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791201105090_mbkwf",
+                "name": "Parquet",
+                "detail": "Quickstep AMATO, chêne cuir extra, 1820x145x13 mm, brosse vernis mat choix",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791201121194_c4x64",
+                "name": "Plinthes",
+                "detail": "hydrofuge pré-peintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1791201205898_pw39h",
+                "name": "Tête de lit",
+                "detail": "Pas de tête de lit prévue",
+                "pdf": ""
+              }
+            ],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1791201266297_ineny",
+          "name": "SALLE DE BAIN",
+          "x": 40.4758953084503,
+          "y": 47.72637427820543,
+          "color": "#6f42c1",
+          "content": "\u003ch2>SALLE DE BAIN\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage/Faïences\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>DOUCHE\u003c/strong> — -Receveur de douche rectangulaire Melua, blanc/mat 140x80x4cm\u003cbr>-Bonde de douche extra plate, VIEGA\u003cbr>-Paroi de douche DADO MAXI 140 cm + paroi fixe de retour 80 cm\u003cbr>-Combi douche CROMETTA/ECOSTAT\u003c/li>\u003cli>\u003cstrong>MEUBLE VASQUE\u003c/strong> — -Vasque ROCA SQUARE\u003cbr>-Dimensions (longueur, largeur, hauteur) 420x390x130 mm\u003cbr>-Mitigeur lavabo HANSGROHE logis 100\u003cbr>\u003c/li>\u003cli>\u003cstrong>BAIGNOIRE\u003c/strong> — -Baignoire de marque ROCA, VYTHOS\u003cbr>-Dimensions (longueur, largeur, hauteur) 1600x750x435 mm\u003cbr>-Vidage de baignoire VIEGA \u003cbr>-Mitigeur baignoire HANSGROHE, LOGIS\u003cbr>-Support mural douchette HANSGROHE, VARIO\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLANS RDC+R+1+SDB.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1791201351267_p22gj",
+                "name": "Carrelage/Faïences",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791201402698_oopx9",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1791201289218_vdptm",
+                "name": "DOUCHE",
+                "detail": "-Receveur de douche rectangulaire Melua, blanc/mat 140x80x4cm\n-Bonde de douche extra plate, VIEGA\n-Paroi de douche DADO MAXI 140 cm + paroi fixe de retour 80 cm\n-Combi douche CROMETTA/ECOSTAT",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791201309321_lleid",
+                "name": "MEUBLE VASQUE",
+                "detail": "-Vasque ROCA SQUARE\n-Dimensions (longueur, largeur, hauteur) 420x390x130 mm\n-Mitigeur lavabo HANSGROHE logis 100\n",
+                "pdf": ""
+              },
+              {
+                "id": "f_1791201329370_d29v2",
+                "name": "BAIGNOIRE",
+                "detail": "-Baignoire de marque ROCA, VYTHOS\n-Dimensions (longueur, largeur, hauteur) 1600x750x435 mm\n-Vidage de baignoire VIEGA \n-Mitigeur baignoire HANSGROHE, LOGIS\n-Support mural douchette HANSGROHE, VARIO",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1791201476578_uzdhw",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLANS RDC+R+1+SDB.pdf"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
